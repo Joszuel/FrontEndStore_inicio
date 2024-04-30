@@ -178,6 +178,7 @@ h3 {
 .nosotros__imagen{
 }
 .nosotros__texto{
+    padding: 2rem;
     width:100%;
     text-align: justify;
     line-height: 1.5;
