@@ -1,0 +1,21 @@
+{
+  "uno": {
+    "tipoDeEtiqueta": "div",
+    "contenido1": [
+      "img",
+      "directorio"
+    ],
+    "contenido2": [
+      "h3",
+      "Producto"
+    ],
+    "contenido3": [
+      "p",
+      "Descripcion corta del producto"
+    ],
+    "contenido4": [
+      "svg",
+      "svg1"
+    ]
+  }
+}
